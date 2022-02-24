@@ -2,6 +2,9 @@
 
 namespace Veldman\Agora;
 
+use DateTime;
+use DateTimeZone;
+
 class Agora
 {
     public function __construct(
